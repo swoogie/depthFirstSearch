@@ -1,0 +1,48 @@
+C:\Users\swogon\Desktop\New folder\DFS\bin\Debug\net5.0\DFS.exe
+C:\Users\swogon\Desktop\New folder\DFS\bin\Debug\net5.0\DFS.deps.json
+C:\Users\swogon\Desktop\New folder\DFS\bin\Debug\net5.0\DFS.runtimeconfig.json
+C:\Users\swogon\Desktop\New folder\DFS\bin\Debug\net5.0\DFS.runtimeconfig.dev.json
+C:\Users\swogon\Desktop\New folder\DFS\bin\Debug\net5.0\DFS.dll
+C:\Users\swogon\Desktop\New folder\DFS\bin\Debug\net5.0\ref\DFS.dll
+C:\Users\swogon\Desktop\New folder\DFS\bin\Debug\net5.0\DFS.pdb
+C:\Users\swogon\Desktop\New folder\DFS\obj\Debug\net5.0\DFS.csprojAssemblyReference.cache
+C:\Users\swogon\Desktop\New folder\DFS\obj\Debug\net5.0\DFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swogon\Desktop\New folder\DFS\obj\Debug\net5.0\DFS.AssemblyInfoInputs.cache
+C:\Users\swogon\Desktop\New folder\DFS\obj\Debug\net5.0\DFS.AssemblyInfo.cs
+C:\Users\swogon\Desktop\New folder\DFS\obj\Debug\net5.0\DFS.csproj.CoreCompileInputs.cache
+C:\Users\swogon\Desktop\New folder\DFS\obj\Debug\net5.0\DFS.dll
+C:\Users\swogon\Desktop\New folder\DFS\obj\Debug\net5.0\ref\DFS.dll
+C:\Users\swogon\Desktop\New folder\DFS\obj\Debug\net5.0\DFS.pdb
+C:\Users\swogon\Desktop\New folder\DFS\obj\Debug\net5.0\DFS.genruntimeconfig.cache
+C:\Users\swogon\Desktop\ADS\DFS\DFS\bin\Debug\net5.0\DFS.exe
+c:\Users\swogon\Desktop\ADS\DFS\DFS\bin\Debug\net5.0\DFS.deps.json
+c:\Users\swogon\Desktop\ADS\DFS\DFS\bin\Debug\net5.0\DFS.runtimeconfig.json
+c:\Users\swogon\Desktop\ADS\DFS\DFS\bin\Debug\net5.0\DFS.runtimeconfig.dev.json
+C:\Users\swogon\Desktop\ADS\DFS\DFS\bin\Debug\net5.0\DFS.dll
+c:\Users\swogon\Desktop\ADS\DFS\DFS\bin\Debug\net5.0\ref\DFS.dll
+C:\Users\swogon\Desktop\ADS\DFS\DFS\bin\Debug\net5.0\DFS.pdb
+C:\Users\swogon\Desktop\ADS\DFS\DFS\obj\Debug\net5.0\DFS.csprojAssemblyReference.cache
+C:\Users\swogon\Desktop\ADS\DFS\DFS\obj\Debug\net5.0\DFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swogon\Desktop\ADS\DFS\DFS\obj\Debug\net5.0\DFS.AssemblyInfoInputs.cache
+C:\Users\swogon\Desktop\ADS\DFS\DFS\obj\Debug\net5.0\DFS.AssemblyInfo.cs
+C:\Users\swogon\Desktop\ADS\DFS\DFS\obj\Debug\net5.0\DFS.csproj.CoreCompileInputs.cache
+C:\Users\swogon\Desktop\ADS\DFS\DFS\obj\Debug\net5.0\DFS.dll
+C:\Users\swogon\Desktop\ADS\DFS\DFS\obj\Debug\net5.0\ref\DFS.dll
+C:\Users\swogon\Desktop\ADS\DFS\DFS\obj\Debug\net5.0\DFS.pdb
+c:\Users\swogon\Desktop\ADS\DFS\DFS\obj\Debug\net5.0\DFS.genruntimeconfig.cache
+C:\Users\swogon\Desktop\ADS\DFS\bin\Debug\net5.0\DFS.exe
+c:\Users\swogon\Desktop\ADS\DFS\bin\Debug\net5.0\DFS.deps.json
+c:\Users\swogon\Desktop\ADS\DFS\bin\Debug\net5.0\DFS.runtimeconfig.json
+c:\Users\swogon\Desktop\ADS\DFS\bin\Debug\net5.0\DFS.runtimeconfig.dev.json
+C:\Users\swogon\Desktop\ADS\DFS\bin\Debug\net5.0\DFS.dll
+c:\Users\swogon\Desktop\ADS\DFS\bin\Debug\net5.0\ref\DFS.dll
+C:\Users\swogon\Desktop\ADS\DFS\bin\Debug\net5.0\DFS.pdb
+C:\Users\swogon\Desktop\ADS\DFS\obj\Debug\net5.0\DFS.csprojAssemblyReference.cache
+C:\Users\swogon\Desktop\ADS\DFS\obj\Debug\net5.0\DFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swogon\Desktop\ADS\DFS\obj\Debug\net5.0\DFS.AssemblyInfoInputs.cache
+C:\Users\swogon\Desktop\ADS\DFS\obj\Debug\net5.0\DFS.AssemblyInfo.cs
+C:\Users\swogon\Desktop\ADS\DFS\obj\Debug\net5.0\DFS.csproj.CoreCompileInputs.cache
+C:\Users\swogon\Desktop\ADS\DFS\obj\Debug\net5.0\DFS.dll
+C:\Users\swogon\Desktop\ADS\DFS\obj\Debug\net5.0\ref\DFS.dll
+C:\Users\swogon\Desktop\ADS\DFS\obj\Debug\net5.0\DFS.pdb
+c:\Users\swogon\Desktop\ADS\DFS\obj\Debug\net5.0\DFS.genruntimeconfig.cache
